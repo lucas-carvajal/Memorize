@@ -15,7 +15,7 @@ For each new game a random theme is applied to the cards.
 * MVVM Architecture
 
 ### Disclaimers
-This project was created following Paul Hegarty's Stanford CS193p course on YouTube.
+This project was created following Paul Hegarty's Stanford CS193p course on YouTube.  
 Functionality I added by completing the Assignments includes:
 * Creating the functionality to apply multiple themes to the cards
 * Displaying and calculating the score
