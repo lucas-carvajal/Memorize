@@ -1,4 +1,4 @@
-# Memorize - iOS Memory Game App
+## Memorize - iOS Memory Game App
 
 ### What is it and what does it do?
 When running the app, cards are displayed on the screen, which you can tap to flip them and find matching cards.  
